@@ -172,7 +172,7 @@ Syntax: command | grep <search word>
 ![422268914-b1d70ae4-a9b3-43ab-ae4c-dc0bb765cc78](https://github.com/user-attachments/assets/3a1c7bde-79e6-4bd7-8720-cbcec925d51d)
 
 
-### 16)	tr Command
+### 16)	tr Comman
 
 The tr command is used to translate the file content like from lower case to upper case.
 
